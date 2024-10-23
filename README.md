@@ -1,10 +1,10 @@
 <h1 style="border:none" align="left">👋 Greetings! I'm Amit Kumar.</h1>
-<h2 style="border:none" align="left">Fresher software developer skilled in Java, React, JavaScript, MERN, Android, PHP, HTML and CSS,Passionate about creating robust web and mobile application.</h2>
+<h2 style="border:none" align="left">Fresher software developer skilled in Java, React, JavaScript, MERN, Android, PHP, HTML and CSS,Passionate about creating web software and mobile application.</h2>
 
 ###
 
 <h2 align="left">👨‍💻 About Me</h2>
-<p align="left">✨ Creating websites since 2023<br>📚 Currently learning Python<br>🎯 Goals: Becoming a proficient web developer</p>
+<p align="left">✨ Creating websites since 2023<br>📚 Currently learning Python<br>🎯 Goals: Becoming a proficient software developer</p>
 
 <img align="right" height="150" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
 
@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo" />
@@ -28,11 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <!-- <img width="12" /> -->
@@ -70,22 +64,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sangamprashant.sangamprashant&" />
 </div>
 
-###
 
-<h2 align="center">📊 GitHub Profile Stats 📊</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamprashant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=sangamprashant&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sangamprashant&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-###
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Graph" />
-</div>
